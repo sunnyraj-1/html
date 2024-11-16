@@ -7,3 +7,18 @@ background-color: blue;
 color: blanchedalmond;
 }
 </style>
+
+
+
+
+
+.myDiv h1{
+    background-color: blue;
+
+}
+ 
+h1~p{
+    background-color: yellow;
+}
+
+
